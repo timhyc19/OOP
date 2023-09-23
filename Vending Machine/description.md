@@ -1,4 +1,4 @@
-You need to design a Vending Machine which follows the following requirements:
+### You need to design a Vending Machine which follows the following requirements:
 
 1. It should accepts coins of 1,5,10,25, 50 Cents, i.e., penny, nickel, dime, and quarter as well as 1 and 2 dollar note
 
@@ -9,3 +9,7 @@ You need to design a Vending Machine which follows the following requirements:
 4. Return the selected product and remaining change if any
 
 5. Allow reset operation for vending machine supplier
+
+
+### Improvements:
+1. User class 
